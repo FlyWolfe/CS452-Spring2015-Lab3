@@ -1,1 +1,7 @@
-name, date, description
+Mathew Sherry
+3-2-2015
+
+Created an interesting 3D object that is lit and utilizes keyboard input to rotate. Used Angel's coding examples
+to help with writing the code.
+
+:P
